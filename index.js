@@ -1,3 +1,4 @@
+
 function distanceFromHqInBlocks(somevalue) {
     //returns the number of blocks given a value 
     if (somevalue<42){
